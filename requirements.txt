@@ -1,0 +1,8 @@
+*(Libraries)*
+
+```text
+pandas
+matplotlib
+seaborn
+openpyxl
+geopandas
